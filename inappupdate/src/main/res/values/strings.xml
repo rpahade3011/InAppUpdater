@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InAppUpdater</string>
+    <string name="app_update_type_flexible">FLEXIBLE</string>
+    <string name="app_update_type_immediate">IMMEDIATE</string>
+    <string name="app_update_available_dialog_title">Update Available</string>
+    <string name="app_update_available_dialog_message">A new version is available for download to use new features and performance updates.
+        \nWe recommend you to proceed the installation while you can still use the application</string>
+    <string name="app_update_available_dialog_rejection_message">Some of the features may not be able to perform properly.
+        It is recommended that you update the application to use the new features and performance optimization</string>
+    <string name="app_update_download_complete">An update has just been downloaded. Tap to restart</string>
+    <string name="app_update_dialog_positive_button_text">ACCEPT</string>
+    <string name="app_update_dialog_negative_button_text">DENY</string>
+    <string name="app_update_download_complete_restart_action">RESTART</string>
+</resources>
