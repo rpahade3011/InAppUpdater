@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/rpahade3011/InAppUpdater.svg)](https://jitpack.io/#rpahade3011/InAppUpdater)
+
 # InAppUpdater
 
 An android library to check your applications latest available updates seamlessly.
@@ -62,8 +64,6 @@ mInAppUpdateManager.checkAvailableUpdateIfFound(versionCode -> {
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-[![](https://jitpack.io/v/rpahade3011/InAppUpdater.svg)](https://jitpack.io/#rpahade3011/InAppUpdater)
 
 ## License
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
