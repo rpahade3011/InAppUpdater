@@ -1,7 +1,10 @@
 InAppUpdater ![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)
 ===================
-AndEx Alert Dialog is a library like ios alert dialog with many more features that optimized for both ltr and rtl languages.
+An android library to check your applications latest available updates seamlessly.
 
+**Current version**
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/rpahade3011/InAppUpdater)
 
 **This library is also available at JitPack.io**
 
@@ -25,7 +28,7 @@ Add the dependency
 
 ```bash
 dependencies {
-	        implementation 'com.github.rpahade3011:InAppUpdater:Tag'
+	        implementation 'com.github.rpahade3011:InAppUpdater:current_version'
 	}
 ```
 
@@ -35,7 +38,7 @@ Add the dependency
 
 ```bash
 dependencies {
-	        implementation 'com.android.rudraksh.inappupdate:InAppUpdater:1.0'
+	        implementation 'com.android.rudraksh.inappupdate:InAppUpdater:current_version'
 	}
 ```
 
