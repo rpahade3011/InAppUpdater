@@ -1,5 +1,8 @@
 language: android
+jdk: oraclejdk8
+sudo: false
 dist: trusty
+
 android:
   components:
     # Uncomment the lines below if you want to
@@ -9,6 +12,12 @@ android:
 
     # The BuildTools version used by your project
     - build-tools-29.0.2
+    - platform-tools
+    - tools
+    - android-21
+    - android-29
+    - sys-img-armeabi-v7a-android-29
+    - extra-android-m2repository
 
     # The SDK version used to compile your project
     - android-29
